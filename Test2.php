@@ -8,5 +8,8 @@
 
 class Test2
 {
-
+    public function xxx222()
+    {
+        
+    }
 }
