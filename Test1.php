@@ -17,4 +17,9 @@ class Test1
     {
         
     }
+
+    public function xasasa()
+    {
+        
+    }
 }
